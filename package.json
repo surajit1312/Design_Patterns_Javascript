@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "factory-pattern": "nodemon ./Creational_Patterns/Factory_Design_Pattern.js"
+    "factory-pattern": "nodemon ./Creational_Patterns/DP1_Factory_Design_Pattern.js"
   },
   "dependencies": {
     "nodemon": "^3.0.3"
